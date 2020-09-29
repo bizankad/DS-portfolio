@@ -1,8 +1,4 @@
 # Portfolio
-This repository contains some of the projets I worked on during my spare time.
-
-
-
 |                |description                          
 |----------------|------------------------------------------------------------|
 |[Credit-Risk modeling](https://github.com/bizankad/DS-portfolio/blob/master/credit-risk-modeling/Credit-Risk-Modeling.ipynb)          |- Predict probability of payement default.<br>`Keywords Lgbm, RandomForest, Streamlit, Heroku`<br>:rocket: [live demo on Heroku](https://risk-modeling-app.herokuapp.com) :rocket:
